@@ -1,7 +1,7 @@
 // Owner
 global.owner = [
-  ['6281252848955'],
-  ['6281252848955', 'Owner', true]
+  ['923271208922'],
+  ['923271208922', 'Owner', true]
 ]
 // Moderator
 global.mods = ['6281252848955']
@@ -23,7 +23,7 @@ global.set = {
   author: 'moon-bot'
 }
 // login use code
-global.pairingNumber = 6283862074769 // fill in your bot number here
+global.pairingNumber = 923271208922 // fill in your bot number here
 // if you use replit
 global.replit_url = ''
 // other
